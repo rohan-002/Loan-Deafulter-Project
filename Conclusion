@@ -1,0 +1,9 @@
+Conclusion
+
+With regards to the XZY Corp. loan defaulters dataset;
+We performed Logistic Regression initially and even with a high accuracy score, the precision values of the class of importance 
+i.e. 1 were low at 0.30. 
+Next, we performed Decision Tree and received a high accuracy as well as high precision and recall values for both classes.
+Therefore, we will produce the Decision Tree model to XYZ Corp. to predict future defaults.
+Additionally, we were able to provide to the client the loss that maybe incurred based on incorrectly predicted loan defaulters 
+which is $ 25,550 totally as shown in the below code snippet.
